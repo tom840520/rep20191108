@@ -1,6 +1,8 @@
 package com.jtintel.bean;
 
 public class Person {
+	
+	
 	private Integer id;
 	private String name;
 	public Integer getId() {
