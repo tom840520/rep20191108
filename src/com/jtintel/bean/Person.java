@@ -21,7 +21,7 @@ public class Person {
 		this.name = name;
 	}
 	public Person(){
-		
+		System.out.print("alex");
 	}
 
 }
